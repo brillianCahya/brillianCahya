@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brillianCahya
 - 👀 I’m interested in back-end developer
-- 🌱 I’m currently learning Informatics at UPN "Veteran" Yogyakarta
+- 🌱 I’m currently studying at UPN "Veteran" Yogyakarta
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
